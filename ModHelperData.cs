@@ -8,5 +8,5 @@ public static class ModHelperData
     public const string Name = "Better Ezili Totem";
 
     public const string Description =
-        "Makes Ezili's Sacrifical Totem ability live up to its name... less. But for the purposes of fun, the ability no longer drains lives in order to use, so it's now unusable on Impoppable and CHIMPS.";
+        "Makes Ezili's Sacrifical Totem ability live up to its name... less. But for the purposes of fun, the ability no longer drains lives in order to use, so it's now usable on Impoppable and CHIMPS.";
 }
