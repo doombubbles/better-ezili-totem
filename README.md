@@ -2,7 +2,7 @@
 
 # Better Ezili Totem
 
-## NOTE: This version of the mod requires BTD6 Mod Helper >v3.0 and MelonLoader >v0.6
+## NOTE: This alpha version of the mod requires BTD6 Mod Helper >v3.0, see [here](https://github.com/doombubbles/BTD6-Mods#readme) for the stable mods
 
 This mod makes Ezili's Sacrificial Totem ability live up to its name... less. But for the purposes of fun, the ability no longer drains lives in order to use, so it's no longer unusable on Impoppable and CHIMPS.
 
