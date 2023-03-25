@@ -1,6 +1,6 @@
 ﻿using System.Linq;
-using Assets.Scripts.Models;
-using Assets.Scripts.Models.Towers;
+using Il2CppAssets.Scripts.Models;
+using Il2CppAssets.Scripts.Models.Towers;
 using BetterEziliTotem;
 using BTD_Mod_Helper;
 using BTD_Mod_Helper.Api.Enums;
